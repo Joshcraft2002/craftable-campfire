@@ -1,0 +1,10 @@
+{
+    "id": "craftable-campfire",
+    "name": "Craftable Campfire",
+    "version": "1.0",
+    "data_pack": {
+        "pack_format": 5,       
+        "description": "(Re)Adds the minecraft campfire recipe.",          
+        "load": ["."]
+    }
+}
